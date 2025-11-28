@@ -47,7 +47,7 @@ o FTP armazenava credenciais de alto privilégio em texto claro (usuários e sen
 <img src="/Prints/catpassword.png" alt="Cat do paswordtxt 27/11/2025" style="float: left; width: 45%; margin-right: 1%;">
     <img src="/Prints/catreadme.png" alt="Cat do readme 27/11/2025 " style="float: left; width: 50%;">
 </div>
-<img src=(/Prints/catwelcome.png) alt="cat do welcome 27/11/2025 "/>
+<img src="/Prints/catwelcome.png" alt="cat do welcome 27/11/2025 "/>
 
 * ### 
 ![SSH27/11/2025](/Prints/ssh.png)
