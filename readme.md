@@ -49,7 +49,7 @@ o FTP armazenava credenciais de alto privilégio em texto claro (usuários e sen
 </div>
 <img src="/Prints/catwelcome.png" alt="cat do welcome 27/11/2025 "/>
 
-* ### 
+* ### Movimentação Lateral de Credenciais (Cross-Service)
 ![SSH27/11/2025](/Prints/ssh.png)
 ![SSH INFORMAÇOES 27/11/2025](/Prints/ssh%20inf.png)
 O ataque utilizo as informações obtidas do FTP o acesso ao serviço de SSH, que tambem possuia senhas e informações importantes.
